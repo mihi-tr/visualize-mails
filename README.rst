@@ -37,9 +37,9 @@ http://vimeo.com/35516153
 Requirements
 ------------
 
-*Python 2.7
-*`Processing`_.org
-*`org.json.me`_ (included)
+* Python 2.7
+* `Processing`_.org
+* `org.json.me`_ (included)
 
 .. _Data Retention Directive: http://en.wikipedia.org/wiki/Data_Retention_Directive
 .. _Processing: http://processing.org
